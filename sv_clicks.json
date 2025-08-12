@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "step": 1,
+    "client_x": 1866,
+    "client_y": 543,
+    "screen_x": 1866,
+    "screen_y": 543,
+    "ts": "2025-08-12T21:09:20"
+  },
+  {
+    "step": 2,
+    "client_x": 1866,
+    "client_y": 543,
+    "screen_x": 1866,
+    "screen_y": 543,
+    "ts": "2025-08-12T21:09:22"
+  },
+  {
+    "step": 3,
+    "client_x": 1866,
+    "client_y": 543,
+    "screen_x": 1866,
+    "screen_y": 543,
+    "ts": "2025-08-12T21:09:24"
+  }
+]
